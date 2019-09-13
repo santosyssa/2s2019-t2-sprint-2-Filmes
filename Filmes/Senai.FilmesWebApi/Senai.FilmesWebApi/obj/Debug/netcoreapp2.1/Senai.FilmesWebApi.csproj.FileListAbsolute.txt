@@ -1,0 +1,14 @@
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\bin\Debug\netcoreapp2.1\Senai.FilmesWebApi.deps.json
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\bin\Debug\netcoreapp2.1\Senai.FilmesWebApi.runtimeconfig.json
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\bin\Debug\netcoreapp2.1\Senai.FilmesWebApi.runtimeconfig.dev.json
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\bin\Debug\netcoreapp2.1\Senai.FilmesWebApi.dll
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.csprojAssemblyReference.cache
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.csproj.CoreCompileInputs.cache
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.RazorAssemblyInfo.cache
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.RazorAssemblyInfo.cs
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.AssemblyInfoInputs.cache
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.AssemblyInfo.cs
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\bin\Debug\netcoreapp2.1\Senai.FilmesWebApi.pdb
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.dll
+C:\Users\46445396860\Documents\2° Termo\2-Sprint\Filmes\Senai.FilmesWebApi\Senai.FilmesWebApi\obj\Debug\netcoreapp2.1\Senai.FilmesWebApi.pdb
